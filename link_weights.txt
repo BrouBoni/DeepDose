@@ -1,0 +1,6 @@
+The weights cannot be added to the repo due to Github's upload size limits.
+The first iteration weights ie available at:
+
+https://securefiles.hubruxelles.be/pickup?claimID=3FMDmHijyq83EX3Z&claimPasscode=VQ7cYxt5JH8oJD2K
+
+(valid for 30 days)
